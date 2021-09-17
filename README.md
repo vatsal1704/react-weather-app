@@ -1,3 +1,52 @@
+This is a React App which fetches data from Weather API and gives us real time Weather of any state or city.
+It is made by using react hooks, react components, weather API.
+
+
+IDE used:
+<li>VS Code</li>
+
+
+
+Concepts Used:
+<ul>
+<li>React hooks</li>
+<li>React components</li>
+<li>Javascript</li>
+<li>JSX</li>
+<li>CSS</li>
+</ul>
+
+
+
+
+Have a look at the project here <a href="https://vatsal1704.github.io/react-weather-app/">Live Demo</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
